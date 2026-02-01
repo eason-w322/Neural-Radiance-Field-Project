@@ -1,11 +1,5 @@
-# CS180-Project-4
-run python part0_1.py
-    python part0_2.py
-    python part0_3.py
-    python part0_4.py
-    python part1_1.py
-    python part1_2.py
-    python part2_1.py
-...
-    python part2_6.py to see resutls for each part
-final_train.py contains the same code as part2_6.py, it is there for debugging purposes
+# Neural Radiance Fields (NeRF) — CS180 Project 4
+
+This project implements **Neural Radiance Fields (NeRF)** for novel view synthesis as part of **CS180: Computer Vision and Computational Photography**. The system learns a continuous 3D scene representation from posed 2D images and renders photorealistic views from new camera positions.
+
+---
